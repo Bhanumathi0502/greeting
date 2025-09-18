@@ -1,3 +1,3 @@
 function hello() {
-  return "Hello MCA!";
+  return "Hello MCA 2025!";
 }
